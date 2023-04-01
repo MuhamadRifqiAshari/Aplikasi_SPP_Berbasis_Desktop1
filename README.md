@@ -1,6 +1,6 @@
 <p align="center">
 <img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/uses-html.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/makes-people-smile.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
-</p>
+</p> 
 
 ## Aplikasi ini Berbayar 
 Terdapat sebuah password didalam nya, untuk mendapatkan nya klik <a href="https://github.com/MuhamadRifqiAshari" target="_blank" class="animate__animated animate__bounceInLeft">Disini</a>
