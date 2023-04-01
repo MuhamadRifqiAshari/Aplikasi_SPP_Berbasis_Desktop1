@@ -5,8 +5,8 @@
 ## Aplikasi ini Berbayar 
 Terdapat sebuah password didalam nya, untuk mendapatkan nya klik <a href="https://github.com/MuhamadRifqiAshari" target="_blank" class="animate__animated animate__bounceInLeft">Disini</a>
 
-# Aplikasi Pembayaran SPP
-Login Multi User Menampilkan Nilai adalah sebuah program yang memungkinkan beberapa pengguna untuk masuk ke dalam aplikasi dengan akun mereka masing-masing dan menampilkan nilai-nilai yang telah disimpan sebelumnya.
+# Aplikasi Pembayaran SPP Berbasis Desktop
+Aplikasi SPP (Sistem Pembayaran Siswa) Berbasis Desktop adalah sebuah program komputer yang digunakan untuk mengelola pembayaran uang sekolah siswa secara efisien dan terstruktur melalui antarmuka desktop yang mudah digunakan. Aplikasi ini biasanya digunakan oleh pihak sekolah atau lembaga pendidikan sebagai sarana untuk mengelola dan memonitor pembayaran uang sekolah dari siswa-siswa yang terdaftar di dalamnya.
 
 ## Ringkasan
 Terdapat 2 level untuk pengguna:
@@ -23,7 +23,7 @@ username : petugas <br/>
 password : petugas
 
 
-<h3>Preview Aplikasi Aplikasi Restoran Web</h3>
+<h3>Preview Aplikasi Pembayaran SPP Berbasis Desktop</h3>
 <p>Tampilan Sistem pembayaran spp</p>
 <img src="https://raw.githubusercontent.com/MuhamadRifqiAshari/Aplikasi_SPP_Berbasis_Desktop1/main/Dokumentasi/sistem%20pembayaran%20spp.png">
 
