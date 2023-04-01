@@ -26,10 +26,10 @@ password : petugas
 
 <h3>Preview Aplikasi Aplikasi Restoran Web</h3>
 <p>Tampilan Sistem pembayaran spp</p>
-<img src="https://raw.githubusercontent.com/MuhamadRifqiAshari/Aplikasi_SPP_Berbasis_Desktop1/main/Dokumentasi/Tampilan%20Admin.png">
+<img src="https://raw.githubusercontent.com/MuhamadRifqiAshari/Aplikasi_SPP_Berbasis_Desktop1/main/Dokumentasi/sistem%20pembayaran%20spp.png">
 
 <p>Tampilan Dasboard Admin</p>
-<img src="https://raw.githubusercontent.com/MuhamadRifqiAshari/Aplikasi_SPP_Berbasis_Web/main/Dokumentasi/Tampilan%20Dasboard%20Admin.png">
+<img src="https://raw.githubusercontent.com/MuhamadRifqiAshari/Aplikasi_SPP_Berbasis_Desktop1/main/Dokumentasi/Tampilan%20Admin.png">
 
 <p>Tampilan Dasboard petugas</p>
-<img src="https://raw.githubusercontent.com/MuhamadRifqiAshari/Aplikasi_SPP_Berbasis_Desktop1/main/Dokumentasi/Tampilan%20Admin.png">
+<img src="https://raw.githubusercontent.com/MuhamadRifqiAshari/Aplikasi_SPP_Berbasis_Desktop1/main/Dokumentasi/Tampilan%20Petugas.png">
