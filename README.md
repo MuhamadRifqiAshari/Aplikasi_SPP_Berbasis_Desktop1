@@ -6,10 +6,9 @@
 Terdapat sebuah password didalam nya, untuk mendapatkan nya klik <a href="https://github.com/MuhamadRifqiAshari" target="_blank" class="animate__animated animate__bounceInLeft">Disini</a>
 
 # Aplikasi Pembayaran SPP
-Aplikasi SPP (Sistem Pembayaran Siswa) adalah sebuah aplikasi desktop berbasis Java yang digunakan untuk membantu proses pembayaran SPP di sekolah. Aplikasi ini dirancang untuk memudahkan proses pembayaran SPP, seperti mencatat pembayaran, menghitung jumlah yang harus dibayarkan, dan menghasilkan laporan keuangan.
+Login Multi User Menampilkan Nilai adalah sebuah program yang memungkinkan beberapa pengguna untuk masuk ke dalam aplikasi dengan akun mereka masing-masing dan menampilkan nilai-nilai yang telah disimpan sebelumnya.
 
 ## Ringkasan
-
 Terdapat 2 level untuk pengguna:
 - Level 1: Admin
 - Level 2: Petugas
